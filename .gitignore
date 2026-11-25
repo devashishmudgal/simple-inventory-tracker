@@ -1,0 +1,5 @@
+inventory.txt
+*.class
+.idea/
+.vscode/
+out/
